@@ -3,3 +3,4 @@ Wprowadzenie
 To jest książka o technologii React
 
 Dziękuję wszystkim członkom mojego zespołu.
+Zmiana na cos tam xd
